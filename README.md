@@ -21,6 +21,14 @@ at compile time.
 2. cd examples/hello
 3. cargo run run
 
+#### with GoFish
+
+1. install [GoFish](https://gofi.sh)
+1. `gofish install zz z3`
+1. `cd examples/hello`
+1. `export ZZ_MODULE_PATHS=../../modules`
+1. `zz run`
+
 
 ### how it looks
 
